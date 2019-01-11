@@ -1,8 +1,10 @@
 # Example Sprint
 ## Informations
 Please type below your class and name.
-Class: 10
-Name: Yun Sangho
+
+Class: Put your class here.
+
+Name: Put your name here.
 ## Objectives
 Check objectives that you acheived throughout this sprint.
 - [x] Illustarate how async javascript works.
@@ -14,9 +16,11 @@ Check the things that need an improvemnet.
 - [ ] Test cases
 - [ ] Operation
 - [ ] etc
+
 Please type below detailed comments about the things you checked above.
-Comments: The session need a huge improvement.
+
+Comments: Put your comments here.
 ## Others
 If you have any questions or problems about this sprint, please type below.
-Comments: I have a question!
 
+Comments: Put your comments here.
